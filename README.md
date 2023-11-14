@@ -54,7 +54,7 @@ For all four peptides, the ion-pair interaction energies are calculated with [no
 ## References
 _Understanding the role of intramolecular ion-pair interactions in conformational stability using an ab initio thermodynamic cycle_   
 Sabyasachi Chakraborty, Kalyaneswar Mandal, and Raghunathan Ramakrishnan    
-[[https://arxiv.org/abs/2203.03478](https://doi.org/10.1021/acs.jpcb.2c06803)](https://doi.org/10.1021/acs.jpcb.2c06803)    
+[https://doi.org/10.1021/acs.jpcb.2c06803](https://doi.org/10.1021/acs.jpcb.2c06803)    
 Journal of Physical Chemistry B 127 (2023) 648-660. 
 
 
